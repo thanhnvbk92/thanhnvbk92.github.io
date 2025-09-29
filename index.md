@@ -1,11 +1,18 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=https://yourwebsite.com">
-  <title>Redirecting...</title>
+  <title>Đang chuyển hướng...</title>
+  <script>
+    // Thay đường dẫn này bằng website thật của bạn
+    window.location.href = "https://3.0.91.217";
+  </script>
 </head>
 <body>
-  <p>Đang chuyển hướng đến <a href="https://3.0.91.217">website chính</a>...</p>
+  <noscript>
+    Nếu trình duyệt của bạn không hỗ trợ JavaScript, hãy bấm vào đây:
+    <a href="https://3.0.91.217">Đi tới website</a>
+  </noscript>
 </body>
 </html>
+
