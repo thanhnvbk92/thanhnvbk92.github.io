@@ -6,6 +6,6 @@
   <title>Redirecting...</title>
 </head>
 <body>
-  <p>Đang chuyển hướng đến <a href="https://yourwebsite.com">website chính</a>...</p>
+  <p>Đang chuyển hướng đến <a href="https://3.0.91.217">website chính</a>...</p>
 </body>
 </html>
